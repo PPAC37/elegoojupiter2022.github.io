@@ -4,13 +4,16 @@ Informations et suivi de ma première imprimante 3D résine - ELEGOO Jupiter: 12
 
 
 [Kickstarter 2021](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/)  
-[www.elegoo.com](https://www.elegoo.com/)  
+[www.elegoo.com](https://www.elegoo.com/)
 * [elegoo-jupiter-12-8-6k-mono-msla-3d-printer](https://www.elegoo.com/products/elegoo-jupiter-12-8-6k-mono-msla-3d-printer)  
 <!--* [https://www.elegoo.com/products/elegoo-jupiter-12-8-6k-mono-msla-3d-printer?variant=39777858093104](https://www.elegoo.com/products/elegoo-jupiter-12-8-6k-mono-msla-3d-printer?variant=39777858093104)-->
 * [3d-printing-user-support](https://www.elegoo.com/pages/3d-printing-user-support)
-[facebook groups elegoojupiter](https://www.facebook.com/groups/elegoojupiter)  
+
+[facebook groups elegoojupiter](https://www.facebook.com/groups/elegoojupiter)
+
 [recherche google : elegoo+jupiter](https://www.google.com/search?q=elegoo+jupiter&oq=elegoo+jupiter)  
 [recherche google : elegoo+jupiter (sur www.lesimprimantes3d.fr/forum)](https://www.google.com/search?q=site%3Alesimprimantes3d.fr%2Fforum+elegoo+jupiter)  
+
 [www.lesimprimantes3d.fr](https://www.lesimprimantes3d.fr)  
 * [forum topic 43711-elegoo-jupiter ](https://www.lesimprimantes3d.fr/forum/topic/43711-elegoo-jupiter/)
 * [forum topic 43581-elegoo-jupiter-la-campagne-kickstarter ](https://www.lesimprimantes3d.fr/forum/topic/43581-elegoo-jupiter-la-campagne-kickstarter/)
@@ -30,48 +33,54 @@ should be deleted
 https://github.com/PPAC37/ELEGOO-Jupiter
 -->
 
-### Spec
+### Specifications
 
-Jupiter buildplate surface : 286mm x 165mm [src ?](https://www.facebook.com/groups/elegoojupiter)
+#### Jupiter buildplate surface : 286mm x 165mm [src ?](https://www.facebook.com/groups/elegoojupiter)
+
 ![271528721_3101764430098741_8953605223116387986_n](https://user-images.githubusercontent.com/94939582/148647023-86ec07af-0e35-4eb7-b98f-75c1c1370d85.jpg)
 
 
 
-Magnetic flexible plate for Jupiter :
+#### Magnetic flexible plate for Jupiter : ( A éviter !? )
+
 * [Whamban](https://whambam3d.com/collections/fbs-for-resin/products/dwr-286-x-165) (~99$ + ports)
 * [Energy](https://www.aliexpress.com/store/group/286x165-368x219mm/4542004_518355549.html)
   * [celui là ?](https://fr.aliexpress.com/item/1005001627704613.html) ( ~ 54€ (-40% = ~32€) )
 
-Jupiter FEP2.0 film dimentions : 
+#### Jupiter FEP2.0 film dimentions : 
+
 * 363.5mm x 237mm x ? mm [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_375337)   
 * FEP 2.0 is ready，size 247*374mm，thickness0.127mm [src](https://www.facebook.com/groups/elegoojupiter/posts/1039696536594914/)
+
 ![271649662_612684403324462_3641023099104078267_n](https://user-images.githubusercontent.com/94939582/148647007-fa3c543c-16dc-4f0e-b57b-4a9ebb1c88fa.jpg)
 
 
-life span of FEP is about 80,000-100,000 times release, 15-20 days if it is printed 24/7. [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374838)  
-replacement : ?
+##### life span of FEP is about 80,000-100,000 times release, 15-20 days if it is printed 24/7. [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374838)  
+replacement : ?  
 equivalent : ?
 
-Jupiter's LED light source (COB light source) life span : up to 2 years. 
+#### Jupiter's LED light source (COB light source) life span : up to 2 years.
 [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374843)  
 replacement : ?
+
 ![271604764_3101764500098734_178248843953810590_n](https://user-images.githubusercontent.com/94939582/148647036-9c2cf4fc-0081-4f80-aa63-5cbf7bdcd18c.jpg)![271530292_3101764510098733_7278139308784810110_n](https://user-images.githubusercontent.com/94939582/148647113-0af50377-b57f-4c6c-990b-3210d2c812dc.jpg)
 
-Jupiter's LCD screen : 12.8" 6K Mono LCD screen  ( 5448px x 3064px ) ( 0.051mm XY Resolution )[src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/description)
+#### Jupiter's LCD screen : 12.8" 6K Mono LCD screen  ( 5448px x 3064px ) ( 0.051mm XY Resolution )
+[src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/description)
 
-Jupiter's LCD screen life span : About 2500-3000h.[src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374839)  
+#### Jupiter's LCD screen life span : About 2500-3000h. [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374839)  
 ? replacement :
 
-Built-in mini air purifier last : 3-6 months.[src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374841)
+#### Built-in mini air purifier last : 3-6 months. [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/faqs#project_faq_374841)
 
-
+#### Slicer.
 Jupiter is not limited to Chitubox software, files generated by other software can be converted using UVtools. 
 Lychee slicer now supports ELEGO Mars 3 machines and will support Jupiter later.
 [src](https://www.kickstarter.com/projects/elegooofficial/elegoo-jupiter-128-6k-mono-msla-3d-printer/comments?comment=Q29tbWVudC0zNTAwMjEyMw%3D%3D&reply=Q29tbWVudC0zNTAwNDMzNg%3D%3D)
 
-[https://www.chitubox.com/en/download/chitubox-free](https://www.chitubox.com/en/download/chitubox-free)  
-[https://github.com/sn4k3/UVtools/releases](https://github.com/sn4k3/UVtools/releases)  
-[https://mango3d.io/lychee-slicer-for-sla-3d-printers/](https://mango3d.io/lychee-slicer-for-sla-3d-printers/)  
+[chitubox-free](https://www.chitubox.com/en/download/chitubox-free)  
+[UVtools releases](https://github.com/sn4k3/UVtools/releases)  
+[lychee-slicer](https://mango3d.io/lychee-slicer-for-sla-3d-printers/)  
 
 
 Electrical consumption is about 155w/h when it printing, and the maximum electric power is 180W 
@@ -80,7 +89,7 @@ Electrical consumption is about 155w/h when it printing, and the maximum electri
 
 ### Marketing (pre/alpha version)
 
-[Uncle Jessy](https://www.youtube.com/channel/UC8i8e7likh-EYMq1bZ0ttHw)
+#### [Uncle Jessy](https://www.youtube.com/channel/UC8i8e7likh-EYMq1bZ0ttHw)
 * video [Elegoo Jupiter Kickstarter Resin 3D Printer - Initial Look! (29 sept. 2021)](https://www.youtube.com/watch?v=Th-dg7RrBOs)
 * video [Your Questions Answered! Elegoo Jupiter Resin 3D Printer (1 oct. 2021)](https://www.youtube.com/watch?v=Xcv8ssw789k)
   * Chitubox 
@@ -120,8 +129,8 @@ Auteur
 Admin
 > The best situation for power outages is to use a UPS with the printers. I go to the local E-Recycler and buy them with dead batteries, then extend the battery wires out of the unit, and wire to a deep cycle battery used for trolling motors for long term printing if the power is out for a while.
 
-[src](https://www.facebook.com/groups/elegoojupiter/posts/1023372078227360/)
-[src](https://www.facebook.com/groups/elegoojupiter/posts/1023372078227360/?__cft__[0]=AZUIlDDQUaGSGWor7Zc9dN8yP08oNouDrkGB3Nl-t7-sHoxQMg_idG_QlWo8OWmCwCo4CQkwBaUoA7gV9lm02SA8L1tIwVebuTX4QRSBY8k9hpYFTqwaqWyYeQo9A6AVYlL5NoGYGPtcXdj7t01swAEretrkk-NlgZuz49s83YfMWpJF1uHs_2_Z3mU_B6PTdlQ&__tn__=%2CO%2CP-R)
+[src](https://www.facebook.com/groups/elegoojupiter/posts/1023372078227360/)  
+<!--[src](https://www.facebook.com/groups/elegoojupiter/posts/1023372078227360/?__cft__[0]=AZUIlDDQUaGSGWor7Zc9dN8yP08oNouDrkGB3Nl-t7-sHoxQMg_idG_QlWo8OWmCwCo4CQkwBaUoA7gV9lm02SA8L1tIwVebuTX4QRSBY8k9hpYFTqwaqWyYeQo9A6AVYlL5NoGYGPtcXdj7t01swAEretrkk-NlgZuz49s83YfMWpJF1uHs_2_Z3mU_B6PTdlQ&__tn__=%2CO%2CP-R)-->
 
 
 ## AUTRE
@@ -131,7 +140,7 @@ Pour transformer un model 3D (appliquer un effet voronoi) [https://www.voronator
 Forum elegoo mars (pas de Jupiter pour le moment 12/2021) [https://www.elegoomars.com/forum/index.php](https://www.elegoomars.com/forum/index.php)
 
 
-## ELEGOO JUPITER: FREQUENTLY ASKED QUESTIONS
+## ELEGOO JUPITER: FREQUENTLY ASKED QUESTIONS  
 [Source](https://www.elegoo.com/blogs/jupiter/elegoo-jupiter-frequently-asked-questions)  
 Sep 11, 2021
 
